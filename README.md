@@ -37,6 +37,10 @@ flowchart TD
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/AIS-8-Hours-course-2025/15.-Human-in-Loop-2.0-X-Post-n8n/main/Thumbnail.png)](https://www.youtube.com/watch?v=ox64hUA3XzQ)
+
+---
+
 ## ⚙️ Node-by-Node Configuration
 
 ### Step 1: Telegram Trigger
